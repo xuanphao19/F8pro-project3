@@ -589,6 +589,7 @@
 
 .appointment {
   --bs-gutter-y: 0;
+  padding-bottom: 80px;
 }
 
 .appointment .container {
